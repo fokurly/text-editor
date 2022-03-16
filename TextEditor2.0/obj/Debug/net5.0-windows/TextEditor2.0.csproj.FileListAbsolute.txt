@@ -1,0 +1,38 @@
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.exe
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.deps.json
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.runtimeconfig.json
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.runtimeconfig.dev.json
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.dll
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\ref\TextEditor2.0.dll
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.pdb
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.csprojAssemblyReference.cache
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2._0.Form1.resources
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.csproj.GenerateResource.cache
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.AssemblyInfoInputs.cache
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.AssemblyInfo.cs
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.csproj.CoreCompileInputs.cache
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.dll
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\ref\TextEditor2.0.dll
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.pdb
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.genruntimeconfig.cache
+C:\Users\buval\source\repos\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2._0.Properties.Resources.resources
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.exe
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.deps.json
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.runtimeconfig.json
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.runtimeconfig.dev.json
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.dll
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\bin\Debug\net5.0-windows\TextEditor2.0.pdb
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.csproj.AssemblyReference.cache
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2._0.Form1.resources
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2._0.Properties.Resources.resources
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.csproj.GenerateResource.cache
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.AssemblyInfoInputs.cache
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.AssemblyInfo.cs
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.csproj.CoreCompileInputs.cache
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.dll
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\refint\TextEditor2.0.dll
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.pdb
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\TextEditor2.0.genruntimeconfig.cache
+C:\Users\buval\OneDrive\Рабочий стол\TextEditor2.0\TextEditor2.0\obj\Debug\net5.0-windows\ref\TextEditor2.0.dll

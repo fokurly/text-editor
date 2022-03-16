@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RrqO5J79v1bC64W8GR4M81y1zgeBTc9yYFiETzBtH1RVwFTl+BQnYoL+fQTKqX5dYKDvo8pnXZJBjB1sW8HMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buval\\OneDrive\\Рабочий стол\\TextEditor2.0\\TextEditor2.0\\TextEditor2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buval\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
